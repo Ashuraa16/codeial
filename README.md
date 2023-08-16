@@ -1,5 +1,6 @@
+Experience the magic of Codeial in action! Explore the live version of the project [here](https://codeial-26482.web.app/). and see how it comes to life on the web
+
 # Getting Started with Create React App
-Live Link of the above project hosted on firebase:-[Click Here](https://codeial-26482.web.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
